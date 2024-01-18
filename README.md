@@ -1,6 +1,6 @@
 # Meme of the Day
 
-A simple web application made with React and Typescript that shows a meme.
+A simple web application made with React and Typescript that displays a meme with a caption and the subreddit it came from.
 
 ## Available Scripts
 
